@@ -1,0 +1,10 @@
+drwxr-xr-x   4 f135407  pemcln       4096 Sep 25  2015 .
+drwxr-xr-x  12 f135407  pemcln       4096 Sep 25  2015 ..
+drwxr-xr-x   4 f135407  pemcln       4096 Sep 25  2015 demo
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 jquery.nivo.slider.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 jquery.nivo.slider.pack.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 license.txt
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 nivo-slider.css
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 nivoslider.jquery.json
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 README
+drwxr-xr-x   6 f135407  pemcln       4096 Sep 25  2015 themes

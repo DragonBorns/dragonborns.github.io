@@ -1,0 +1,15 @@
+drwxr-xr-x   2 f135407  pemcln       4096 Sep 25  2015 .
+drwxr-xr-x  10 f135407  pemcln       4096 Sep 25  2015 ..
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 changelog.txt
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 handlers.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 handlers.min.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 license.txt
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 plupload.flash.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 plupload.flash.swf
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 plupload.html4.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 plupload.html5.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 plupload.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 plupload.silverlight.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 plupload.silverlight.xap
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 wp-plupload.js
+-rw-r--r--   1 f135407  pemcln          0 Sep 25  2015 wp-plupload.min.js

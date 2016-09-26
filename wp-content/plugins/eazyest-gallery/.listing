@@ -1,0 +1,11 @@
+drwxr-xr-x   9 f135407  pemcln       4096 Sep 25  2015 .
+drwxr-xr-x  13 f135407  pemcln       4096 Sep 25  2015 ..
+drwxr-xr-x   4 f135407  pemcln       4096 Sep 25  2015 admin
+drwxr-xr-x   5 f135407  pemcln       4096 Sep 25  2015 frontend
+drwxr-xr-x   4 f135407  pemcln       4096 Sep 25  2015 includes
+drwxr-xr-x   2 f135407  pemcln       4096 Sep 25  2015 languages
+-rw-r--r--   1 f135407  pemcln      32444 Sep 25  2015 license.txt
+drwxr-xr-x   2 f135407  pemcln       4096 Sep 25  2015 plugins
+-rw-r--r--   1 f135407  pemcln      16772 Sep 25  2015 readme.txt
+drwxr-xr-x   6 f135407  pemcln       4096 Sep 25  2015 themes
+drwxr-xr-x   3 f135407  pemcln       4096 Sep 25  2015 tools
